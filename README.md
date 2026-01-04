@@ -17,4 +17,4 @@ Açık Kaynak: Proje içerisindeki butonu kullanarak, oyunun temelini oluşturan
 
 Akıllı Rakip: Rastgele ama stratejik atışlar yapan Bot algoritması.
 
-![Ana Ekran](assets/WebSitesiEkranGörüntüsü (1).png)
+[Ana Ekran](assets/WebSitesiEkranGörüntüsü (1).png)
